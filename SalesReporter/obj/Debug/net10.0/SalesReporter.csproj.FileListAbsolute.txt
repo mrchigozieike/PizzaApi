@@ -1,0 +1,14 @@
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\bin\Debug\net10.0\SalesReporter.exe
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\bin\Debug\net10.0\SalesReporter.deps.json
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\bin\Debug\net10.0\SalesReporter.runtimeconfig.json
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\bin\Debug\net10.0\SalesReporter.dll
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\bin\Debug\net10.0\SalesReporter.pdb
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.AssemblyInfoInputs.cache
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.AssemblyInfo.cs
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.dll
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\refint\SalesReporter.dll
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.pdb
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\SalesReporter.genruntimeconfig.cache
+C:\Users\mrchi\OneDrive\Desktop\CSE-325\SalesReporter\obj\Debug\net10.0\ref\SalesReporter.dll

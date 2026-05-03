@@ -1,0 +1,7 @@
+Sales Summary
+----------------------------
+Total Sales: $475.74
+
+Details:
+  Feb2024.txt: $249.99
+  SalesData.txt: $225.75
