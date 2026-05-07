@@ -89,7 +89,7 @@ Details:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+[git clone https://github.com/mrchigozieike/PizzaApi.git
 ```
 
 ### 2. Navigate to the Project
